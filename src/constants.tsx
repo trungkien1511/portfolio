@@ -23,8 +23,8 @@ export const PROFILE = {
   role: "Fresher Full-Stack Developer",
   shortBio:
     "Đam mê xây dựng các ứng dụng web hiệu suất cao. Luôn sẵn sàng học hỏi công nghệ mới và đóng góp vào các dự án thực tế.",
-  email: "nguyenvana.dev@email.com",
-  location: "Hồ Chí Minh, Việt Nam",
+  email: "phamhtrungkien1511@gmail.com",
+  location: "Đà Nẵng, Việt Nam",
   avatarUrl: "https://picsum.photos/400/400?grayscale", // Placeholder professional look
 };
 
